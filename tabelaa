@@ -1,0 +1,14 @@
+def entrada_de_tabela():
+    tabela = []
+    while True:
+        entrada = input("digite um número (ou 'f'para finalizar ) :")
+        if entrada.lower() == 'f':
+            número = float(entrada)
+            tabela.append(número)
+            
+            print("Entrada invalida. Por favor, digite um número ou 'f' para finalizar.")
+            
+        return tabela
+    
+    
+    

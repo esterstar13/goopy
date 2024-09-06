@@ -1,0 +1,9 @@
+#distribuir 1 fila para 3 caixas
+
+fila = [1]
+
+caixas = [1,2,3]
+
+
+
+

@@ -1,0 +1,18 @@
+#
+#  Comandos de listas.
+#
+tabela = ["Pedro", "Ricardo", 23.5, 65, True]
+tabela2 = ["valeria", 185]
+tabela.extend(tabela2)
+tabela.append("Brenda")
+tabela.append(257)
+entrada = "Joaquim"
+tabela.append(entrada)
+print(tabela)
+tabela.pop(2)
+print(tabela)
+tabela.remove('Brenda')
+print(tabela)
+ind = tabela.count("bianca")
+#ind = tabela.index('bianca')
+print(ind)

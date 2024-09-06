@@ -1,0 +1,11 @@
+print("mingi, seonghwa, beomgyu, soobin, lee know, IN" ), ( "meus bias do ateez, stray kids e txt ")
+mingi = { " lindo talentoso e fofo"}
+
+enhypen = "Heeseung=15, jay=20, jake=15, Sunghoon=8, Sunoo=24, jungwon=9, niki=9"
+print(enhypen)
+
+bts = "Jimin, Jungkook, Jin, jhope, suga, v, rm"
+print(bts)
+
+txt = ""
+
